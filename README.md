@@ -14,7 +14,6 @@
   <li> <a href = "https://github.com/Bhooshaan" >Bhooshaan A </a> </li>
   <li> <a href = "https://github.com/thisissanjai" > Sanjai K </a> </li>
   </ul>
-<br>
 <h2> Deployment </h2>
 Web Application Link: https://uaep-webapp.onrender.com
 <br>
